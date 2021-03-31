@@ -1,2 +1,0 @@
-# vickycodes
-codes for practice
